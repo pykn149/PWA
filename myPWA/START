@@ -1,0 +1,2 @@
+cd ~/myPWA || cd /workspaces/PWA/myPWA
+node index.js
