@@ -1,0 +1,8 @@
+# 1) stage all changes (new files, edits, deletions)
+git add -A
+
+# 2) create a commit (replace message if you want)
+git commit -m "Save workspace changes"
+
+# 3) push to GitHub on the main branch
+git push origin main
